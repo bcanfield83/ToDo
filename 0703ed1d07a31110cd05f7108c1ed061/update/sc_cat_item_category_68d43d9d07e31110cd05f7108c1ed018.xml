@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Create To Do Item">cde17dd907e31110cd05f7108c1ed004</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-02 21:16:48</sys_created_on>
+        <sys_id>68d43d9d07e31110cd05f7108c1ed018</sys_id>
+        <sys_name>Can We Help You?.Create To Do Item</sys_name>
+        <sys_package display_value="To Do" source="x_564470_to_do">0703ed1d07a31110cd05f7108c1ed061</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">0703ed1d07a31110cd05f7108c1ed061</sys_scope>
+        <sys_update_name>sc_cat_item_category_68d43d9d07e31110cd05f7108c1ed018</sys_update_name>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c784a59d07a31110cd05f7108c1ed0a2" label="To Do Project" max_length="40" name="x_564470_to_do_to_do_project" text_index="true" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Project" max_length="40" name="project" type="string"/>
+        <element label="Sort Order" max_length="40" name="sort_order" type="integer"/>
+    </element>
+</database>

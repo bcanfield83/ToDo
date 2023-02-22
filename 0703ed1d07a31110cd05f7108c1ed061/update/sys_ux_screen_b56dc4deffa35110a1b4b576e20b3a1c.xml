@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="To Do Workspace Config">f56dc4ded1a351108c7ea9d84cd9fd20</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Visualization Designer">2d5dcc29c3110110d938e4788940dd8f</macroponent>
+        <macroponent_config>{
+  "sysid" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "headingOnlyVisibleToScreenReaders" : false,
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Visualization Designer default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Visualization Designer">b96dc4dedaa351103913b11618f3821f</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-05 16:19:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b56dc4deffa35110a1b4b576e20b3a1c</sys_id>
+        <sys_name>Visualization Designer default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_564470_to_do">0703ed1d07a31110cd05f7108c1ed061</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">0703ed1d07a31110cd05f7108c1ed061</sys_scope>
+        <sys_update_name>sys_ux_screen_b56dc4deffa35110a1b4b576e20b3a1c</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b56dc4deffa35110a1b4b576e20b3a1c"/>
+</record_update>

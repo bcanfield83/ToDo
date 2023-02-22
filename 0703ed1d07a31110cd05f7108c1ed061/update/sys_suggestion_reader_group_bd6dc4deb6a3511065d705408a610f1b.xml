@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="To Do Workspace AI Search Configuration">bd6dc4debea35110f3819f9fd3c6f31a</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-05 16:18:57</sys_created_on>
+        <sys_id>bd6dc4deb6a3511065d705408a610f1b</sys_id>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="To Do" source="x_564470_to_do">0703ed1d07a31110cd05f7108c1ed061</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">0703ed1d07a31110cd05f7108c1ed061</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_bd6dc4deb6a3511065d705408a610f1b</sys_update_name>
+    </sys_suggestion_reader_group>
+</record_update>
